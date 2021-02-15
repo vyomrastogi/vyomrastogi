@@ -2,7 +2,7 @@
 
 _I'm a Software Engineer and Cloud enthusiast._
 
-- 🔭 I'm currently working on developing a new workflow product for a client
+- 🔭 I'm currently working on developing a new workflow product for a customer
 - 🌱 I'm currently learning container orchestration with K8s and practicing Test Driven Development
 
  _and I can have engaging conversations on_
