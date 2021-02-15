@@ -5,7 +5,7 @@
 <img align="left" alt="Vyom Rastogi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-__I am Vyom Rastogi, a Software Engineer and Cloud enthusiast. I can have engaging conversations on_
+_I am a Software Engineer and Cloud enthusiast. I can have engaging conversations on_
 - Spring 
 - Microservices 
 - Agile Methodology 
