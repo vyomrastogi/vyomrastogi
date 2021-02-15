@@ -1,9 +1,5 @@
 ### Hi there 👋, Vyom [here!](https://vyomrastogi.github.io)
 
-<br/><a href="https://www.linkedin.com/in/vyomrastogi/"><img align="left" alt="Vyom Rastogi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />linkedin/vyomrastogi</a>
-
-<br/>
-
 _I'm a Software Engineer and Cloud enthusiast._
 
 - 🔭 I'm currently working on developing a new workflow product for a client
@@ -17,6 +13,7 @@ _I'm a Software Engineer and Cloud enthusiast._
 - Cloud and other Digital Technologies
 - and,  Motorcycles and Photography
 
+<br/><a href="https://www.linkedin.com/in/vyomrastogi/"><img align="left" alt="Vyom Rastogi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />linkedin/vyomrastogi</a>
  
 <!--
 **vyomrastogi/vyomrastogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
