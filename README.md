@@ -9,7 +9,7 @@ _I'm a Software Engineer and Cloud enthusiast._
 - 🔭 I'm currently working on developing a new workflow product for a client
 - 🌱 I'm currently learning container orchestration with K8s and practicing Test Driven Development
 
- _I can have engaging conversations on_
+ _and I can have engaging conversations on_
 - Spring 
 - Microservices 
 - Agile Methodology 
