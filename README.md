@@ -3,6 +3,7 @@
 <br/><a href="https://www.linkedin.com/in/vyomrastogi/"><img align="left" alt="Vyom Rastogi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />linkedin/vyomrastogi</a>
 
 <br/>
+
 _I am a Software Engineer and Cloud enthusiast. I can have engaging conversations on_
 - Spring 
 - Microservices 
