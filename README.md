@@ -12,6 +12,10 @@ _I am a Software Engineer and Cloud enthusiast. I can have engaging conversation
 - Cloud and other Digital Technologies
 - and,  Motorcycles and Photography
 
+
+- 🔭 I’m currently working on developing a new workflow product for a client
+- 🌱 I’m currently learning container orchestration with K8s and practicing Test Driven Development
+ 
 <!--
 **vyomrastogi/vyomrastogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
