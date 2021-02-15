@@ -2,7 +2,7 @@
 
 <br/>
 <a href="https://www.linkedin.com/in/vyomrastogi/">
-<img align="left" alt="Vyom Rastogi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="Vyom Rastogi" width="22px" src="https://www.flaticon.com/free-icon/linkedin_174857" />
 </a>
 
 _I am a Software Engineer and Cloud enthusiast. I can have engaging conversations on_
