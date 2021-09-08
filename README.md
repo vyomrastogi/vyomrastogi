@@ -2,8 +2,11 @@
 
 _I'm a Software Engineer and Cloud enthusiast._
 
-- 🔭 I'm currently working on developing a new workflow product for a customer
+- 🔭 I'm currently working on digital transformation journey of a legacy system
 - 🌱 I'm currently learning container orchestration with K8s and practicing Test Driven Development
+- 👯 I’m looking to collaborate on java based projects
+- 📫 How to reach me: vyom.reloaded@gmail.com
+- 😄 Pronouns: _he/him_
 
  _and I can have engaging conversations on_
 - Spring 
