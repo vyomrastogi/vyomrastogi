@@ -40,14 +40,20 @@
     <summary>📃 Experience</summary>
 
 <img align='right' src="https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=Jira&logoColor=white"/>
-<img align='right' src="https://img.shields.io/badge/apache_maven-C71A36?style=plastic&logo=apachemaven&logoColor=white" /> 
+<img align='right' src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=Jenkins&logoColor=white" />
+<img align='right' src="https://img.shields.io/badge/AWS-232f3e?style=plastic&logo=amazon&logoColor=gold" />
+<img align='right' src="https://img.shields.io/badge/Docker-0693e3?style=plastic&logo=docker&logoColor=white" />
+
+- **Technical Lead** `Benevity`  `📆 2021 - Present` `📍 Toronto, Canada`
+<img align='right' src="https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=Jira&logoColor=white"/>
+<img align='right' src="https://img.shields.io/badge/maven-C71A36?style=plastic&logo=apachemaven&logoColor=white" /> 
 <img align='right' src="https://img.shields.io/badge/Google_Cloud-4285F4?style=plastic&logo=google-cloud&logoColor=white" />
 <img align='right' src="https://img.shields.io/badge/GitLab-330F63?style=plastic&logo=gitlab&logoColor=white" />
 <img align='right' src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=Jenkins&logoColor=white" />
 <img align='right' src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=plastic&logo=rabbitmq&logoColor=white" />
 <img align='right' src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=plastic&logo=spring-boot" />
 
-- **Technical Lead** `Loblaw`  `📆 2021 - Present` `📍 Toronto, Canada`
+- **Technical Lead** `Loblaw`  `📆 2021 - 2021` `📍 Toronto, Canada`
 <img align='right' src="https://img.shields.io/badge/gradle-02303A?style=plastic&logo=gradle&logoColor=white" /> 
 <img align='right' src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=plastic&logo=spring-boot" />
 <img align='right' src="https://img.shields.io/badge/Couchbase-EA2328?style=plastic&logo=couchbase&logoColor=white" /> 
