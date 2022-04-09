@@ -45,8 +45,6 @@
 <img align='right' src="https://img.shields.io/badge/Docker-0693e3?style=plastic&logo=docker&logoColor=white" />
 
 - **Technical Lead** `Benevity`  `📆 2021 - Present` `📍 Toronto, Canada`
-<img align='right' src="https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=Jira&logoColor=white"/>
-<img align='right' src="https://img.shields.io/badge/maven-C71A36?style=plastic&logo=apachemaven&logoColor=white" /> 
 <img align='right' src="https://img.shields.io/badge/Google_Cloud-4285F4?style=plastic&logo=google-cloud&logoColor=white" />
 <img align='right' src="https://img.shields.io/badge/GitLab-330F63?style=plastic&logo=gitlab&logoColor=white" />
 <img align='right' src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=Jenkins&logoColor=white" />
