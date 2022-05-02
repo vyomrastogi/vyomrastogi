@@ -7,9 +7,6 @@
 <p align='center'>  
   <a href="https://www.linkedin.com/in/vyomrastogi/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://vyomrastogi.github.io">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />        
   </a>&nbsp;&nbsp; 
 </p>
 
@@ -22,18 +19,12 @@
 
 
 - 🔭 I'm currently working on digital transformation journey of a legacy system
-- 🌱 I'm currently learning golang
+- 🌱 I'm currently learning golang and terraform
 - 👯 I’m looking to collaborate on java based projects
 - 📫 How to reach me: vyom.reloaded@gmail.com
 - 😄 Pronouns: _he/him_
 
- _and I can have engaging conversations on_
-- Spring
-- Microservices 
-- Agile Methodology 
-- TDD 
-- Cloud and other Digital Technologies
-- and,  Motorcycles and Photography
+ _and I like having discussion about_ everything Spring, microservices , TDD, everything cloud  and,  motorcycles & photography
 
 
 <details aria-expanded='true'>
