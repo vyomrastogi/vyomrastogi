@@ -45,7 +45,6 @@
 - **Technical Lead** `Loblaw` `📍 Toronto, Canada`
 <img align='right' src="https://img.shields.io/badge/gradle-02303A?style=plastic&logo=gradle&logoColor=white" /> 
 <img align='right' src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=plastic&logo=spring-boot" />
-<img align='right' src="https://img.shields.io/badge/Kafka-8dbebe?style=plastic&logo=apachekafka&logoColor=231f20" />
 <img align='right' src="https://img.shields.io/badge/GoCD-330F63?style=plastic&logo=gocd" />
 <img align='right' src="https://img.shields.io/badge/Redis-222?style=plastic&logo=redis&logoColor=dc382c" />
 <img align='right' src="https://img.shields.io/badge/Couchbase-EA2328?style=plastic&logo=couchbase&logoColor=white" /> 
