@@ -36,7 +36,7 @@
 <img align='right' src="https://img.shields.io/badge/PHP-4F5B93?style=plastic&logo=php" />
 <img align='right' src="https://img.shields.io/badge/Terraform-fff?style=plastic&logo=terraform&logoColor=7b42bc" />
   
-- **Technical Lead** `Benevity` `📍 Toronto, Canada`
+- **Staff Developer** `Benevity` `📍 Toronto, Canada`
 <img align='right' src="https://img.shields.io/badge/Google_Cloud-4285F4?style=plastic&logo=google-cloud&logoColor=white" />
 <img align='right' src="https://img.shields.io/badge/GitLab-330F63?style=plastic&logo=gitlab&logoColor=white" />
 <img align='right' src="https://img.shields.io/badge/maven-C71A36?style=plastic&logo=apachemaven&logoColor=white" /> 
